@@ -1,0 +1,20 @@
+__File Format Version__,0x01,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+__Feature__,Zone Channel Assignment,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+__Record__,"1 of 1 (""Zone Channel Assignment"")",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+__Section__,Zone,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+__Field Name__, __Field Value__,,,,,,,,,,,,,,,,,,
+Zone Name,Bridgerland UT,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+__Section__,Channels,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+__Field Names__,,,,,,,,,,,,,,,,,,,
+Channel Name,Personality Type,Personality #,User Selectable PL (MPL),Receive Frequency,Receive Squelch Type,Receive PL Freq,Receive PL Code,Receive DPL Code,Receive DPL Invert,Itinerant Channel Frequency,Transmit Frequency,Transmit Squelch Type,Transmit PL Freq,Transmit PL Code,Transmit DPL Code,Transmit DPL Invert,Tx Opt Transmit Dev,Tx Opt Transmit Dev T/A,Tx Opt Channel Spacing
+__Field Values__,,,,,,,,,,,,,,,,,,,
+Mt Logan,Cnv,9,FALSE,146.72,CSQ,103.5,XZ,23,FALSE,FALSE,146.12,PL,103.5,1A,23,FALSE,5.0 kHz,5.0 kHz,25.0 kHz
+Red Spur,Cnv,9,FALSE,145.31,CSQ,103.5,XZ,23,FALSE,FALSE,144.71,PL,103.5,1A,23,FALSE,5.0 kHz,5.0 kHz,25.0 kHz
+Promontory,Cnv,9,FALSE,147.26,CSQ,103.5,XZ,23,FALSE,FALSE,147.86,PL,103.5,1A,23,FALSE,5.0 kHz,5.0 kHz,25.0 kHz

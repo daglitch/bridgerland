@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep
+0,,146.720,-,0.6,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.000
+1,,449.625,-,5.0,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,25.000
+2,,145.310,-,0.6,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.000
+3,,147.260,+,0.6,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.000
